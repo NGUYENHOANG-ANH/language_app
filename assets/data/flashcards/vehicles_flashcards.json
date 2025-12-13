@@ -1,0 +1,112 @@
+{
+  "flashcards": [
+    {
+      "id": "fc_vehicle_001",
+      "word": "Car",
+      "pronunciation": "/kɑːr/",
+      "imageUrl": "assets/images/flashcards/vehicles/car.png",
+      "audioUrl": "assets/sounds/flashcards/vehicles/car_word.mp3",
+      "soundUrl": "assets/sounds/flashcards/vehicles/car_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName": "Ô tô",
+      "description":  "A vehicle with four wheels",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_vehicle_002",
+      "word":  "Bus",
+      "pronunciation": "/bʌs/",
+      "imageUrl": "assets/images/flashcards/vehicles/bus. png",
+      "audioUrl":  "assets/sounds/flashcards/vehicles/bus_word.mp3",
+      "soundUrl":  "assets/sounds/flashcards/vehicles/bus_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName": "Xe buýt",
+      "description":  "A large vehicle for many people",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_vehicle_003",
+      "word":  "Bike",
+      "pronunciation": "/baɪk/",
+      "imageUrl": "assets/images/flashcards/vehicles/bike.png",
+      "audioUrl": "assets/sounds/flashcards/vehicles/bike_word.mp3",
+      "soundUrl": "assets/sounds/flashcards/vehicles/bike_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName": "Xe đạp",
+      "description":  "A vehicle with two wheels",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_vehicle_004",
+      "word": "Train",
+      "pronunciation": "/treɪn/",
+      "imageUrl":  "assets/images/flashcards/vehicles/train.png",
+      "audioUrl": "assets/sounds/flashcards/vehicles/train_word.mp3",
+      "soundUrl": "assets/sounds/flashcards/vehicles/train_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName":  "Tàu",
+      "description":  "A vehicle that runs on rails",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_vehicle_005",
+      "word": "Airplane",
+      "pronunciation": "/ˈɛrpleɪn/",
+      "imageUrl": "assets/images/flashcards/vehicles/airplane. png",
+      "audioUrl":  "assets/sounds/flashcards/vehicles/airplane_word.mp3",
+      "soundUrl":  "assets/sounds/flashcards/vehicles/airplane_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName": "Máy bay",
+      "description":  "A vehicle that flies in the sky",
+      "difficulty":  2
+    },
+    {
+      "id": "fc_vehicle_006",
+      "word": "Ship",
+      "pronunciation": "/ʃɪp/",
+      "imageUrl": "assets/images/flashcards/vehicles/ship.png",
+      "audioUrl": "assets/sounds/flashcards/vehicles/ship_word.mp3",
+      "soundUrl": "assets/sounds/flashcards/vehicles/ship_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName": "Tàu thủy",
+      "description": "A vehicle that sails on water",
+      "difficulty": 2
+    },
+    {
+      "id": "fc_vehicle_007",
+      "word": "Truck",
+      "pronunciation":  "/trʌk/",
+      "imageUrl":  "assets/images/flashcards/vehicles/truck.png",
+      "audioUrl": "assets/sounds/flashcards/vehicles/truck_word.mp3",
+      "soundUrl": "assets/sounds/flashcards/vehicles/truck_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName":  "Xe tải",
+      "description": "A large vehicle for carrying things",
+      "difficulty": 1
+    },
+    {
+      "id":  "fc_vehicle_008",
+      "word": "Helicopter",
+      "pronunciation": "/ˈhelɪkɑːptər/",
+      "imageUrl":  "assets/images/flashcards/vehicles/helicopter.png",
+      "audioUrl": "assets/sounds/flashcards/vehicles/helicopter_word.mp3",
+      "soundUrl": "assets/sounds/flashcards/vehicles/helicopter_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName":  "Trực thăng",
+      "description": "A flying vehicle with rotating blades",
+      "difficulty":  2
+    },
+    {
+      "id":  "fc_vehicle_009",
+      "word": "Boat",
+      "pronunciation": "/boʊt/",
+      "imageUrl": "assets/images/flashcards/vehicles/boat. png",
+      "audioUrl":  "assets/sounds/flashcards/vehicles/boat_word.mp3",
+      "soundUrl":  "assets/sounds/flashcards/vehicles/boat_sound.mp3",
+      "topicId": "vehicles",
+      "vietnameseName": "Thuyền",
+      "description": "A small vehicle for water",
+      "difficulty": 1
+    }
+  ]
+}

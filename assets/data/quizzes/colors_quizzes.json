@@ -1,0 +1,51 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz_color_001",
+      "topicId": "colors",
+      "question": "Màu này là gì?",
+      "questionType": "image",
+      "imageUrl": "assets/images/quizzes/colors/red_quiz.png",
+      "options": [
+        {
+          "id": "opt_c_001_1",
+          "text":  "Red",
+          "imageUrl": "assets/images/options/colors/red_small.png"
+        },
+        {
+          "id": "opt_c_001_2",
+          "text": "Blue",
+          "imageUrl": "assets/images/options/colors/blue_small.png"
+        }
+      ],
+      "correctAnswerId": "opt_c_001_1",
+      "level":  1
+    },
+    {
+      "id": "quiz_color_002",
+      "topicId": "colors",
+      "question": "Tìm màu xanh lá",
+      "questionType": "image",
+      "imageUrl": "assets/images/quizzes/colors/green_quiz.png",
+      "options": [
+        {
+          "id": "opt_c_002_1",
+          "text": "Yellow",
+          "imageUrl": "assets/images/options/colors/yellow_small.png"
+        },
+        {
+          "id": "opt_c_002_2",
+          "text": "Green",
+          "imageUrl":  "assets/images/options/colors/green_small.png"
+        },
+        {
+          "id": "opt_c_002_3",
+          "text":  "Blue",
+          "imageUrl": "assets/images/options/colors/blue_small.png"
+        }
+      ],
+      "correctAnswerId": "opt_c_002_2",
+      "level": 2
+    }
+  ]
+}

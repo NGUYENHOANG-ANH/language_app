@@ -1,0 +1,105 @@
+name: learning_app
+description: A Flutter app for teaching English to children under 6 years old using flashcards and quizzes. 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.0.0
+  riverpod:  ^2.4.0
+  flutter_riverpod: ^2.4.0
+  
+  # Local Storage
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # Audio
+  audioplayers: ^5.2.1
+  flutter_tts: ^3.6.5
+  # Animations
+  lottie: ^2.4.0
+  rive: ^0.11.0
+  
+  # JSON Serialization
+  json_annotation:  ^4.8.1
+  
+  # UI & Colors
+  google_fonts: ^5.1.0
+  
+  # Utils
+  intl: ^0.19.0
+  connectivity_plus: ^5.0.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  build_runner: ^2.4.0
+  hive_generator: ^2.0.1
+  json_serializable: ^6.7.1
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Data files
+    - data/topics.json
+    - data/flashcards/animals_flashcards.json
+    - data/flashcards/fruits_flashcards.json
+    - data/flashcards/colors_flashcards.json
+    - data/flashcards/shapes_flashcards.json
+    - data/flashcards/vehicles_flashcards.json
+    - data/flashcards/alphabet_flashcards.json
+    - data/quizzes/animals_quizzes.json
+    - data/quizzes/fruits_quizzes.json
+    - data/quizzes/colors_quizzes.json
+    - data/quizzes/shapes_quizzes.json
+    - data/quizzes/vehicles_quizzes.json
+    - data/quizzes/alphabet_quizzes.json
+    - data/rewards.json
+    
+    # Images
+    - assets/images/
+    - assets/images/topics/
+    - assets/images/flashcards/
+    - assets/images/flashcards/animals/
+    - assets/images/flashcards/fruits/
+    - assets/images/flashcards/colors/
+    - assets/images/flashcards/shapes/
+    - assets/images/flashcards/vehicles/
+    - assets/images/flashcards/alphabet/
+    - assets/images/options/
+    - assets/images/quizzes/
+    
+    # Sounds
+    - assets/sounds/
+    - assets/sounds/flashcards/
+    - assets/sounds/flashcards/animals/
+    - assets/sounds/flashcards/fruits/
+    - assets/sounds/flashcards/colors/
+    - assets/sounds/flashcards/shapes/
+    - assets/sounds/flashcards/vehicles/
+    - assets/sounds/flashcards/alphabet/
+    - assets/sounds/options/
+    - assets/sounds/quizzes/
+    
+    # Animations
+    - assets/animations/
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Light.ttf
+          weight: 300
+        - asset:  assets/fonts/Quicksand-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 700

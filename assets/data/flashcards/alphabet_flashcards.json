@@ -1,0 +1,114 @@
+{
+  "flashcards": [
+    {
+      "id": "fc_alpha_001",
+      "word":  "A",
+      "pronunciation":  "/eɪ/",
+      "imageUrl":  "assets/images/flashcards/alphabet/a.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/a_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName":  "A",
+      "description": "The first letter of the alphabet",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_alpha_002",
+      "word": "B",
+      "pronunciation": "/biː/",
+      "imageUrl": "assets/images/flashcards/alphabet/b.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/b_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "B",
+      "description": "The second letter",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_alpha_003",
+      "word": "C",
+      "pronunciation": "/siː/",
+      "imageUrl": "assets/images/flashcards/alphabet/c.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/c_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "C",
+      "description": "The third letter",
+      "difficulty": 1
+    },
+    {
+      "id":  "fc_alpha_004",
+      "word": "D",
+      "pronunciation": "/diː/",
+      "imageUrl": "assets/images/flashcards/alphabet/d.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/d_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "D",
+      "description": "The fourth letter",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_alpha_005",
+      "word": "E",
+      "pronunciation": "/iː/",
+      "imageUrl": "assets/images/flashcards/alphabet/e.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/e_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "E",
+      "description": "The fifth letter",
+      "difficulty": 1
+    },
+    {
+      "id":  "fc_alpha_006",
+      "word": "F",
+      "pronunciation": "/ɛf/",
+      "imageUrl":  "assets/images/flashcards/alphabet/f.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/f_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName":  "F",
+      "description":  "The sixth letter",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_alpha_007",
+      "word": "G",
+      "pronunciation": "/dʒiː/",
+      "imageUrl": "assets/images/flashcards/alphabet/g.png",
+      "audioUrl": "assets/sounds/flashcards/alphabet/g_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "G",
+      "description": "The seventh letter",
+      "difficulty": 1
+    },
+    {
+      "id":  "fc_alpha_008",
+      "word": "H",
+      "pronunciation": "/eɪtʃ/",
+      "imageUrl": "assets/images/flashcards/alphabet/h. png",
+      "audioUrl":  "assets/sounds/flashcards/alphabet/h_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "H",
+      "description": "The eighth letter",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_alpha_009",
+      "word": "I",
+      "pronunciation": "/aɪ/",
+      "imageUrl": "assets/images/flashcards/alphabet/i. png",
+      "audioUrl":  "assets/sounds/flashcards/alphabet/i_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "I",
+      "description": "The ninth letter",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_alpha_010",
+      "word": "J",
+      "pronunciation": "/dʒeɪ/",
+      "imageUrl": "assets/images/flashcards/alphabet/j. png",
+      "audioUrl":  "assets/sounds/flashcards/alphabet/j_word.mp3",
+      "topicId": "alphabet",
+      "vietnameseName": "J",
+      "description": "The tenth letter",
+      "difficulty": 1
+    }
+  ]
+}

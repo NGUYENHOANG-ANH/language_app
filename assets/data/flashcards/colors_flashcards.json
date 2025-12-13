@@ -1,0 +1,92 @@
+{
+  "flashcards": [
+    {
+      "id": "fc_color_001",
+      "word": "Red",
+      "pronunciation": "/rɛd/",
+      "imageUrl": "assets/images/flashcards/colors/red.png",
+      "audioUrl": "assets/sounds/flashcards/colors/red_word.mp3",
+      "topicId": "colors",
+      "vietnameseName": "Đỏ",
+      "description":  "The color of blood and fire",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_color_002",
+      "word":  "Blue",
+      "pronunciation":  "/bluː/",
+      "imageUrl": "assets/images/flashcards/colors/blue.png",
+      "audioUrl": "assets/sounds/flashcards/colors/blue_word.mp3",
+      "topicId": "colors",
+      "vietnameseName": "Xanh nước biển",
+      "description": "The color of the sky",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_color_003",
+      "word": "Yellow",
+      "pronunciation": "/ˈjɛloʊ/",
+      "imageUrl": "assets/images/flashcards/colors/yellow. png",
+      "audioUrl":  "assets/sounds/flashcards/colors/yellow_word.mp3",
+      "topicId": "colors",
+      "vietnameseName": "Vàng",
+      "description":  "The color of the sun",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_color_004",
+      "word": "Green",
+      "pronunciation": "/ɡriːn/",
+      "imageUrl": "assets/images/flashcards/colors/green.png",
+      "audioUrl": "assets/sounds/flashcards/colors/green_word. mp3",
+      "topicId": "colors",
+      "vietnameseName": "Xanh lá",
+      "description": "The color of grass and trees",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_color_005",
+      "word": "Purple",
+      "pronunciation": "/ˈpɜːrpəl/",
+      "imageUrl": "assets/images/flashcards/colors/purple.png",
+      "audioUrl": "assets/sounds/flashcards/colors/purple_word.mp3",
+      "topicId": "colors",
+      "vietnameseName": "Tím",
+      "description": "The color of grapes",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_color_006",
+      "word":  "Orange",
+      "pronunciation":  "/ˈɔːrɪndʒ/",
+      "imageUrl": "assets/images/flashcards/colors/orange.png",
+      "audioUrl": "assets/sounds/flashcards/colors/orange_word.mp3",
+      "topicId": "colors",
+      "vietnameseName": "Cam",
+      "description": "The color of oranges",
+      "difficulty": 1
+    },
+    {
+      "id": "fc_color_007",
+      "word":  "Black",
+      "pronunciation": "/blæk/",
+      "imageUrl": "assets/images/flashcards/colors/black.png",
+      "audioUrl": "assets/sounds/flashcards/colors/black_word.mp3",
+      "topicId":  "colors",
+      "vietnameseName": "Đen",
+      "description": "The darkest color",
+      "difficulty":  1
+    },
+    {
+      "id": "fc_color_008",
+      "word": "White",
+      "pronunciation": "/waɪt/",
+      "imageUrl": "assets/images/flashcards/colors/white.png",
+      "audioUrl": "assets/sounds/flashcards/colors/white_word.mp3",
+      "topicId": "colors",
+      "vietnameseName": "Trắng",
+      "description":  "The brightest color",
+      "difficulty":  1
+    }
+  ]
+}

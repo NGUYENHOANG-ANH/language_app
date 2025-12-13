@@ -1,0 +1,83 @@
+{
+  "quizzes": [
+    {
+      "id":  "quiz_fruit_001",
+      "topicId": "fruits",
+      "question": "Đây là trái cây gì?",
+      "questionType": "image",
+      "imageUrl": "assets/images/quizzes/fruits/apple_quiz.png",
+      "options": [
+        {
+          "id": "opt_f_001_1",
+          "text": "Apple",
+          "imageUrl": "assets/images/options/fruits/apple_small.png"
+        },
+        {
+          "id": "opt_f_001_2",
+          "text": "Orange",
+          "imageUrl": "assets/images/options/fruits/orange_small.png"
+        }
+      ],
+      "correctAnswerId": "opt_f_001_1",
+      "level": 1
+    },
+    {
+      "id": "quiz_fruit_002",
+      "topicId":  "fruits",
+      "question":  "Trái cây vàng này là gì?",
+      "questionType": "image",
+      "imageUrl": "assets/images/quizzes/fruits/banana_quiz.png",
+      "options": [
+        {
+          "id": "opt_f_002_1",
+          "text": "Apple",
+          "imageUrl": "assets/images/options/fruits/apple_small.png"
+        },
+        {
+          "id": "opt_f_002_2",
+          "text": "Banana",
+          "imageUrl":  "assets/images/options/fruits/banana_small.png"
+        },
+        {
+          "id":  "opt_f_002_3",
+          "text": "Grape",
+          "imageUrl": "assets/images/options/fruits/grape_small.png"
+        }
+      ],
+      "correctAnswerId": "opt_f_002_2",
+      "level": 2
+    },
+    {
+      "id": "quiz_fruit_003",
+      "topicId": "fruits",
+      "question": "Trái cây đỏ lớn này là gì?",
+      "questionType": "image",
+      "imageUrl": "assets/images/quizzes/fruits/watermelon_quiz.png",
+      "options": [
+        {
+          "id": "opt_f_003_1",
+          "text": "Watermelon",
+          "imageUrl": "assets/images/options/fruits/watermelon_small.png"
+        },
+        {
+          "id": "opt_f_003_2",
+          "text": "Apple",
+          "imageUrl": "assets/images/options/fruits/apple_small.png"
+        },
+        {
+          "id": "opt_f_003_3",
+          "text": "Strawberry",
+          "imageUrl":  "assets/images/options/fruits/strawberry_small.png"
+        },
+        {
+          "id":  "opt_f_003_4",
+          "text": "Mango",
+          "imageUrl":  "assets/images/options/fruits/mango_small.png"
+        }
+      ],
+      "correctAnswerId": "opt_f_003_1",
+      "level": 3,
+      "timeLimit": 10
+    }
+  ]
+}

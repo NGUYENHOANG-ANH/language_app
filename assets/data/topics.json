@@ -1,0 +1,70 @@
+{
+  "topics": [
+    {
+      "id": "animals",
+      "name": "🦁 Động Vật",
+      "description": "Học tên các động vật bằng tiếng Anh",
+      "iconUrl": "assets/images/topics/animals_icon.png",
+      "color": "#FF6B6B",
+      "totalFlashcards": 12,
+      "totalQuizzes": 10,
+      "isLocked":  false,
+      "requiredStars": 0
+    },
+    {
+      "id": "fruits",
+      "name": "🍎 Trái Cây",
+      "description": "Học tên các loại trái cây",
+      "iconUrl": "assets/images/topics/fruits_icon.png",
+      "color":  "#FFD93D",
+      "totalFlashcards": 10,
+      "totalQuizzes": 8,
+      "isLocked": false,
+      "requiredStars": 0
+    },
+    {
+      "id": "colors",
+      "name": "🎨 Màu Sắc",
+      "description": "Nhận diện và học các màu sắc",
+      "iconUrl": "assets/images/topics/colors_icon.png",
+      "color": "#6BCB77",
+      "totalFlashcards": 8,
+      "totalQuizzes": 6,
+      "isLocked": false,
+      "requiredStars": 0
+    },
+    {
+      "id": "shapes",
+      "name": "⭕ Hình Dạng",
+      "description": "Học tên các hình dạng cơ bản",
+      "iconUrl": "assets/images/topics/shapes_icon.png",
+      "color": "#4D96FF",
+      "totalFlashcards": 7,
+      "totalQuizzes": 5,
+      "isLocked": true,
+      "requiredStars": 10
+    },
+    {
+      "id": "vehicles",
+      "name": "🚗 Phương Tiện",
+      "description": "Nhận diện các loại phương tiện",
+      "iconUrl": "assets/images/topics/vehicles_icon. png",
+      "color": "#FF6B9D",
+      "totalFlashcards": 9,
+      "totalQuizzes": 7,
+      "isLocked": true,
+      "requiredStars": 20
+    },
+    {
+      "id": "alphabet",
+      "name": "🔤 Bảng Chữ Cái",
+      "description": "Học Alphabet A-Z",
+      "iconUrl": "assets/images/topics/alphabet_icon.png",
+      "color": "#F38181",
+      "totalFlashcards": 26,
+      "totalQuizzes": 20,
+      "isLocked": false,
+      "requiredStars": 0
+    }
+  ]
+}
